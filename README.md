@@ -1,5 +1,7 @@
 # Meu Portfolio de Desenvolvimento Web
 
+![Portfolio Image](https://imgur.com/a/j7LQ3sE)
+
 Bem-vindo ao meu Portfolio de Desenvolvimento Web! Neste site, você encontrará informações sobre mim, minhas habilidades, qualificações, serviços prestados, projetos no meu portfólio, testemunhos de clientes satisfeitos e a forma de entrar em contato comigo.
 
 ## Visite o Site
