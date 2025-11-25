@@ -280,9 +280,14 @@ img{
     fill: var(--first-color);
 }
 
+
 .home__blob-img{
-    width: 170px;
+    width: 120%; 
+    height: 120%; 
+    object-fit: cover;
+    transform: translate(-15%, -15%); 
 }
+
 
 .home__data{
     grid-column: 1/3 ;
@@ -505,6 +510,42 @@ img{
 }
 
 /*Skills Frontend*/
+.skills_sql{
+    width: 90%;
+}
+.skills_odi{
+    width: 85%;
+}
+.skills_pentaho{
+    width: 80%;
+}
+.skills_sap{
+    width: 75%;
+}
+.skills_powerbi{
+    width: 85%;
+}
+.skills_oas{
+    width: 80%;
+}
+.skills_dashboard{
+    width: 85%;
+}
+.skills_viz{
+    width: 90%;
+}
+.skills_kpi{
+    width: 85%;
+}
+.skills_api{
+    width: 80%;
+}
+.skills_cloud{
+    width: 75%;
+}
+.skills_git{
+    width: 85%;
+}
 
 .skills_html{
     width: 90%;
@@ -1206,11 +1247,12 @@ img{
         grid-template-columns: 1fr max-content;
         column-gap: 3rem;
     }
-    .project__data{
-        padding-top: .8rem;
+  
+    .project__data {
+    padding-bottom: 1rem; /* Adiciona espaço na parte de baixo */
     }
-    .footer__container{
-        grid-template-columns: repeat(3, 1fr);
+   .project__container {
+    padding-bottom: 2rem; /* Adiciona mais espaço na base */
     }
     .footer__bg{
         padding: 3rem 0 3.5rem;
