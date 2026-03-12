@@ -6,7 +6,7 @@ Bem-vindo ao meu Portfolio de Desenvolvimento Web! Neste site, você encontrará
 
 ## Visite o Site
 
-Você pode acessar o site pelo seguinte link: [https://portfolio-greggregk.vercel.app/](https://portfolio-greggregk.vercel.app/)
+
 
 ## Sobre Mim
 
